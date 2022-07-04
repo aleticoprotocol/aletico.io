@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aletico.io/static/css/main.07b5664c.chunk.css",
+    "main.js": "/aletico.io/static/js/main.6d04c09d.chunk.js",
+    "main.js.map": "/aletico.io/static/js/main.6d04c09d.chunk.js.map",
+    "runtime-main.js": "/aletico.io/static/js/runtime-main.c4bcffb1.js",
+    "runtime-main.js.map": "/aletico.io/static/js/runtime-main.c4bcffb1.js.map",
+    "static/js/2.966eca24.chunk.js": "/aletico.io/static/js/2.966eca24.chunk.js",
+    "static/js/2.966eca24.chunk.js.map": "/aletico.io/static/js/2.966eca24.chunk.js.map",
+    "index.html": "/aletico.io/index.html",
+    "static/css/main.07b5664c.chunk.css.map": "/aletico.io/static/css/main.07b5664c.chunk.css.map",
+    "static/js/2.966eca24.chunk.js.LICENSE.txt": "/aletico.io/static/js/2.966eca24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4bcffb1.js",
+    "static/js/2.966eca24.chunk.js",
+    "static/css/main.07b5664c.chunk.css",
+    "static/js/main.6d04c09d.chunk.js"
+  ]
+}
