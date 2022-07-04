@@ -1,0 +1,197 @@
+/*
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*/
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.scrollingContainer {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.section {
+  height: 100vh;
+  width: 100%;
+  color: #53525e;
+  font-size: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3f6f3;
+
+    background-color: #f9fce1;
+
+    background-color: #fee9b2;
+
+    background-color: #fbd1b7;
+}
+
+.floating {
+  position: relative;
+}
+
+.contextMenuxx {
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 50%;
+  background-color: #3c3c3b;
+  position: fixed;
+  cursor: pointer;
+  bottom: 0;
+  margin: 1em;
+  z-index: 1;
+}
+
+.contextMenu {
+  width: 50px;
+  height: 50px;
+  display: block;
+  border: none;
+  padding: 0px;
+  margin: 20px;
+  position: fixed;
+  cursor: pointer;
+  top: 0;
+  right: 0;
+  background: linear-gradient(
+          to bottom,
+          black, black 20%,
+          transparent 20%, transparent 40%,
+          black 40%, black 60%,
+          transparent 60%, transparent 80%,
+          black 80%, black 100%
+  );
+}
+
+/**
+  Hamburger
+**/
+.hamburger {
+  position: absolute;
+  top: 5em;
+  right: 5%;
+  margin-left: -2em;
+  margin-top: -45px;
+  width: 2em;
+  height: 45px;
+  z-index: 5;
+}
+
+.hamburger div {
+  position: relative;
+  width: 3em;
+  height: 7px;
+  border-radius: 3px;
+  background-color: #f8982b;
+  margin-top: 8px;
+  transition: all 0.3s ease-in-out;
+}
+
+/**
+Animations
+**/
+#toggle:checked + .hamburger .top-bun {
+  transform: rotate(-45deg);
+  margin-top: 25px;
+}
+#toggle:checked + .hamburger .bottom-bun {
+  opacity: 0;
+  transform: rotate(45deg);
+}
+#toggle:checked + .hamburger .meat {
+  transform: rotate(45deg);
+  margin-top: -7px;
+}
+#toggle:checked + .hamburger + .nav {
+  top: 0;
+  transform: scale(1);
+}
+  
+.menu {
+  position: fixed;
+  background-color: white;
+  top: 0;
+  right: 0;
+  margin: 2.5em 4em 4em;
+  z-index: 1;
+  display: flex;
+  flex-flow: column;
+}
+
+.menu > a {
+  color: black;
+  font-size: 2em;
+  width: content-box;
+  padding: 0.5em;
+  text-align: center;
+  opacity: 1;
+  text-decoration: none;
+  }
+
+/*
+.menu:nth-child(2) {
+  transform: translateY(-1.5em);
+  transition: transform 300ms 0ms, opacity 300ms ease-out;
+}
+
+.menu:last-child() {
+  transform: translateY(-0.5em);
+  transition: transform 200ms 0ms, opacity 200ms ease-out;
+}
+*/
+.hideMenu {
+  position: fixed;
+  font-size: 2em;
+  top: 0;
+  right: 0;
+  margin: 2.5em 4em;
+  display: flex;
+  flex-flow: column;
+}
+  
+.hideMenu > a {
+  background-color: transparent;
+  color: black;
+  width: 150px;
+  padding: 0.5em;
+  text-align: center;
+  visibility: none;
+  transform: translateY(4em);
+  transition: transform 400ms 0ms, opacity 400ms ease-in;
+  opacity: 0;
+  border-radius: 8pt;
+  text-decoration: none;
+
+  }
+
+/*
+.hideMenu:nth-child(2) {
+  transform: translateY(2em);
+  transition: transform 300ms 0ms, opacity 300ms ease-in;
+}
+
+.hideMenu:last-child() {
+  transform: translateY(0em);
+  transition: opacity 200ms ease-in;
+}
+*/
+/*
+&:nth-child(2)
+
+ transform: translateY(2em)
+transition: transform 300ms 0ms, opacity 300ms ease-in
+*/
