@@ -1,7 +1,6 @@
 {
   "name": "landingpage-react-template",
   "version": "0.1.0",
-  "homepage": "https://aleticoprotocol.github.io/aletico.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -38,5 +37,17 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "**",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleticoprotocol/aletico.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleticoprotocol/aletico.io/issues"
   }
 }
