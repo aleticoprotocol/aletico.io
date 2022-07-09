@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e6cc8cb-453c-4e82-a332-8b9286318fe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/intro-bg-old.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aletico.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aletico.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/about.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/team/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/team/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/team/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/team/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Team.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Team.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/gallery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/gallery.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/data.json" afterDir="false" />
-    </list>
+    <list default="true" id="2e6cc8cb-453c-4e82-a332-8b9286318fe9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +70,7 @@
       <workItem from="1657056637543" duration="599000" />
       <workItem from="1657068297305" duration="561000" />
       <workItem from="1657117689448" duration="5000" />
-      <workItem from="1657370600433" duration="22225000" />
+      <workItem from="1657370600433" duration="22604000" />
     </task>
     <servers />
   </component>
