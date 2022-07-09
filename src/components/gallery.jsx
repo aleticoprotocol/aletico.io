@@ -5,10 +5,12 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Gallery</h2>
+          <h2>Build your team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Whether you are an athlete wanting to track the teams you play on, a sports coach
+            wanting to give out awards to the kids, a sports team tracking your climb to the
+            championship, or a fan wanting to follow your favorite athletes, Aletico Teams lets you
+            organize and track players.
           </p>
         </div>
         <div className='row'>

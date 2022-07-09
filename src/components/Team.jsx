@@ -3,27 +3,15 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Meet the Team</h2>
+          <h2>Get your game on</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Chronicle your athletic stories on your card. A card is a stackable NFT representing your
+            goals, stats, and accomplishments.
           </p>
         </div>
-        <div id='row'>
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
-                  <div className='thumbnail'>
-                    {' '}
-                    <img src={d.img} alt='...' className='team-img' />
-                    <div className='caption'>
-                      <h4>{d.name}</h4>
-                      <p>{d.job}</p>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : 'loading'}
+        <div className="team-card">
+          {" "}
+          <img src="img/team/card.jpg" className="img-responsive" alt="https://pixabay.com/users/alessandra1barbieri-2693565/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4760441" />{" "}
         </div>
       </div>
     </div>

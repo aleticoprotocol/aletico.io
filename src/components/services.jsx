@@ -3,10 +3,9 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Proof of athletics</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Everyone has a story. Aletico protocol is a proof-of-athletics chain that enables young athletes to record the events that tell their story.
           </p>
         </div>
         <div className='row'>
