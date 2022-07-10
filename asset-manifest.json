@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.07b5664c.chunk.css",
-    "main.js": "/static/js/main.57c69167.chunk.js",
-    "main.js.map": "/static/js/main.57c69167.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.450103de.js",
-    "runtime-main.js.map": "/static/js/runtime-main.450103de.js.map",
-    "static/js/2.966eca24.chunk.js": "/static/js/2.966eca24.chunk.js",
-    "static/js/2.966eca24.chunk.js.map": "/static/js/2.966eca24.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.07b5664c.chunk.css.map": "/static/css/main.07b5664c.chunk.css.map",
-    "static/js/2.966eca24.chunk.js.LICENSE.txt": "/static/js/2.966eca24.chunk.js.LICENSE.txt"
+    "main.css": "/aletico.io/static/css/main.07b5664c.chunk.css",
+    "main.js": "/aletico.io/static/js/main.57c69167.chunk.js",
+    "main.js.map": "/aletico.io/static/js/main.57c69167.chunk.js.map",
+    "runtime-main.js": "/aletico.io/static/js/runtime-main.c4bcffb1.js",
+    "runtime-main.js.map": "/aletico.io/static/js/runtime-main.c4bcffb1.js.map",
+    "static/js/2.966eca24.chunk.js": "/aletico.io/static/js/2.966eca24.chunk.js",
+    "static/js/2.966eca24.chunk.js.map": "/aletico.io/static/js/2.966eca24.chunk.js.map",
+    "index.html": "/aletico.io/index.html",
+    "static/css/main.07b5664c.chunk.css.map": "/aletico.io/static/css/main.07b5664c.chunk.css.map",
+    "static/js/2.966eca24.chunk.js.LICENSE.txt": "/aletico.io/static/js/2.966eca24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.450103de.js",
+    "static/js/runtime-main.c4bcffb1.js",
     "static/js/2.966eca24.chunk.js",
     "static/css/main.07b5664c.chunk.css",
     "static/js/main.57c69167.chunk.js"
