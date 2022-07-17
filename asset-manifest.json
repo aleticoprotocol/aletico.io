@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aletico.io/static/css/main.07b5664c.chunk.css",
-    "main.js": "/aletico.io/static/js/main.57c69167.chunk.js",
-    "main.js.map": "/aletico.io/static/js/main.57c69167.chunk.js.map",
+    "main.js": "/aletico.io/static/js/main.b70d6fd7.chunk.js",
+    "main.js.map": "/aletico.io/static/js/main.b70d6fd7.chunk.js.map",
     "runtime-main.js": "/aletico.io/static/js/runtime-main.c4bcffb1.js",
     "runtime-main.js.map": "/aletico.io/static/js/runtime-main.c4bcffb1.js.map",
     "static/js/2.966eca24.chunk.js": "/aletico.io/static/js/2.966eca24.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c4bcffb1.js",
     "static/js/2.966eca24.chunk.js",
     "static/css/main.07b5664c.chunk.css",
-    "static/js/main.57c69167.chunk.js"
+    "static/js/main.b70d6fd7.chunk.js"
   ]
 }
