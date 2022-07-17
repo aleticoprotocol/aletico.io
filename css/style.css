@@ -246,6 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+  padding: 100px 0;
   background: #f6f6f6;
 }
 #features i.fa {
@@ -439,26 +440,26 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
-/* Team Section */
-#team {
+/* nft Section */
+#nft {
   padding: 100px 0;
 }
-#team h4 {
+#nft h4 {
   margin: 5px 0;
 }
-#team .team-img {
+#nft .nft-img {
   width: 240px;
 }
 
-#team .card {
+#nft .card {
   width: 400px;
 }
 
-#team .thumbnail {
+#nft .thumbnail {
   background: transparent;
   border: 0;
 }
-#team .thumbnail .caption {
+#nft .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
 }
