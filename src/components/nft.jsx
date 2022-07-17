@@ -1,6 +1,6 @@
-export const Team = (props) => {
+export const Nft = (props) => {
   return (
-    <div id='team' className='text-center'>
+    <div id='nft' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Get your game on</h2>
@@ -9,9 +9,9 @@ export const Team = (props) => {
             goals, stats, and accomplishments.
           </p>
         </div>
-        <div className="team-card">
+        <div className="nft-card">
           {" "}
-          <img src="img/team/card.jpg" className="img-responsive" alt="https://pixabay.com/users/alessandra1barbieri-2693565/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4760441" />{" "}
+          <img src="img/nft/card.jpg" className="img-responsive" alt="NFT image" />{" "}
         </div>
       </div>
     </div>

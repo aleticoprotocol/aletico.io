@@ -5,7 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Proof of athletics</h2>
           <p>
-            Aletico protocol is a proof-of-athletics chain that enables young athletes use NFTs to record the events that tell their sports story.
+            Athletes use NFTs to track their play and tell their sports story.
           </p>
         </div>
         <div className='row'>

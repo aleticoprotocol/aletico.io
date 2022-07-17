@@ -4,9 +4,8 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
-import { Testimonials } from "./components/testimonials";
-import { Team } from "./components/Team";
+import { Teams } from "./components/teams";
+import { Nft } from "./components/nft";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -30,8 +29,8 @@ const App = () => {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Features data={landingPageData.Features} />
-      <Team data={landingPageData.Team} />
-      <Gallery data={landingPageData.Gallery} />
+      <Nft data={landingPageData.Nft} />
+      <Teams data={landingPageData.Teams} />
       <Contact data={landingPageData.Contact} />
     </div>
   );

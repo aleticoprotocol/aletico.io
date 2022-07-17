@@ -1,24 +1,18 @@
 {
   "Header": {
     "title": "Every Player, everywhere",
-    "paragraph": "A global community-based protocol that provides proof-of-athletics for youth athletes"
+    "paragraph": "Using NFTs to create a permanent record of athletic participation, awards, and skills."
   },
   "About": {
-    "paragraph": "Aletico is a global NFT commons where athletes can come together and share their skills with the world. ",
+    "paragraph": "Aletico lets players use NFTs to track and globally showcase their skills.",
     "Why": [
-      "Track games and awards",
-      "Create a permanent record",
+      "Track games, tournaments, and awards",
+      "Create a permanent record of athletic accomplishments",
       "Get access to events",
-      "Watch your NFT grow!"
-    ],
-    "Why2": [
-      "Join a global community",
-      "Support youth athletes",
-      "Track your favorite players",
-      "Hand out NFT awards"
+      "Support your favorite players"
     ]
   },
-  "Gallery": [
+  "Teams": [
     {
       "title": "Soccer",
       "largeImage": "img/portfolio/soccer.jpg",
@@ -69,52 +63,20 @@
     {
       "icon": "fa fa-wordpress",
       "name": "Proof of Play",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Proof of Play NFTs track participation in games and tournaments."
     },
     {
       "icon": "fa fa-deviantart",
       "name": "Proof of Awards",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Proof of Awards NFTs track awards, accolades, and other atheletic accomplishments."
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Proof of Statistics",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Proof of Statistics NFTs tracks athletic statistics."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
+  "nft": [
     {
       "img": "img/team/01.jpg",
       "handle": "swansea@miamisky",
@@ -153,22 +115,22 @@
     {
       "icon": "fa fa-magic",
       "title": "Athletes",
-      "text": "Athletes can track the athletic NFTs they have collected for competitions, awards, and statistics."
+      "text": "Athletes collect and record NFTs for competitions, awards, and statistics."
     },
     {
       "icon": "fa fa-group",
       "title": "Coaches",
-      "text": "Coaches can create teams of players hand out proof-of-play NFTs and player award NFTs."
+      "text": "Coaches create teams hand out participation and award NFTs and record player statistics."
     },
     {
       "icon": "fa fa-comments-o",
       "title": "Parents",
-      "text": "Parents can track their children's sports history NFTs."
+      "text": "Parents create a permanent, globally accessible record their children's sports history."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Fan(atics)",
-      "text": "Fans can follow athletes and help create NFTs to track and validate individual and team statistics."
+      "title": "Programs and Sponsors",
+      "text": "Sports services organizations provide their coaches and athletes with a permanent record of participation."
     }
   ]
 }

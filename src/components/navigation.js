@@ -136,7 +136,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#team' className='page-scroll'>
+              <a href='#nft' className='page-scroll'>
                 NFT Cards
               </a>
             </li>
