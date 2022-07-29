@@ -3,10 +3,11 @@
     padding: 20px;
     width: 111%;
   }
+  #menu,
   #about,
   #services,
-  #testimonials,
-  #team,
+  #nft,
+  #portfolio,
   #contact,
   #footer {
     width: 111%;
